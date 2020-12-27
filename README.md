@@ -31,7 +31,7 @@
        <img src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <img src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    </p>
    <p float="left" widht="50%">
@@ -40,4 +40,8 @@
    </p>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Nando-Freitas&count_private=true&show_icons=true&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Freitas&hide=TeX&layout=compact)
+</br>
+</br>
+
+[![Nando-Freitas's github stats](https://github-readme-stats.vercel.app/api?username=Nando-Freitas)](https://github.com/Nando-Freitas/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Freitas&hide=TeX)
