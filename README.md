@@ -12,7 +12,10 @@
    <p float="right" align="right" widht="50%">
       <img align="right" src="https://github.com/Nando-Freitas/Nando-Freitas/blob/master/Coding.gif" width="30%" height="30%">
    </p>
-
+   <p float="left" align="left" width="50%">
+      These are languages and tools which I'm always improving
+   </p>
+   </br>
    <p float="left" widht="50%">
        <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,5 +45,7 @@
 
 </br>
 </br>
+
+## Status
 
 [![Nando-Freitas's github stats](https://github-readme-stats.vercel.app/api?username=Nando-Freitas)](https://github.com/Nando-Freitas/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Freitas&hide=TeX)
