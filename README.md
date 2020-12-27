@@ -24,4 +24,6 @@
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nando-Freitas&count_private=true&show_icons=true&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Freitas&hide=TeX&layout=compact)
