@@ -43,5 +43,4 @@
 </br>
 </br>
 
-[![Nando-Freitas's github stats](https://github-readme-stats.vercel.app/api?username=Nando-Freitas)](https://github.com/Nando-Freitas/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Freitas&hide=TeX)
+[![Nando-Freitas's github stats](https://github-readme-stats.vercel.app/api?username=Nando-Freitas)](https://github.com/Nando-Freitas/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Freitas&hide=TeX)
