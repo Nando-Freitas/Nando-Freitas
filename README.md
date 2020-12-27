@@ -9,7 +9,7 @@
 
 ## Technologies
 <p>
-   <p float="right" align="right" widht="50%">
+   <p float="right" align="right" widht="50%" margin-right="5%">
       <img align="right" src="https://github.com/Nando-Freitas/Nando-Freitas/blob/master/Coding.gif" width="30%" height="30%">
    </p>
    <p float="left" align="left" width="50%">
