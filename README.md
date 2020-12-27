@@ -38,7 +38,6 @@
   </p>
 
   <p align="left">
-    
     <img src="https://devicons.github.io/devicon/devicon.git/icons/travis/travis-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
