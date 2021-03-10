@@ -1,4 +1,4 @@
-![Hi-There](./icons/gifntext-gif.gif)
+<img src="./icons/./icons/gifntext-gif.gif" widht="100%" height="300px">
 
 <!--**Nando-Freitas/Nando-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
