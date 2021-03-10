@@ -1,4 +1,4 @@
-![Hi-There](https://github.com/Nando-Freitas/Nando-Freitas/blob/master/Frame%201.png)
+![Hi-There](./icons/gifn-text.gif)
 
 <!--**Nando-Freitas/Nando-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
