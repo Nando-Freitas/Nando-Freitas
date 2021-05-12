@@ -3,8 +3,8 @@
 <!--**Nando-Freitas/Nando-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on personal front-end projects
-- 🌱 I’m currently learning react stack
-- 👯 I’m looking to collaborate on open-source python and javascript projects
+- 🌱 I'm currently working with angular applications
+- 👯 I’m looking to collaborate on open-source javascript projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/fernando-santos-de-freitas-796ab2127/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> .
 
 ## Technologies
@@ -41,5 +41,5 @@
 </br>
 
 ## Status
-
+ 
 [![Nando-Freitas's github stats](https://github-readme-stats.vercel.app/api?username=Nando-Freitas)](https://github.com/Nando-Freitas/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Freitas&hide=TeX&layout=compact)
