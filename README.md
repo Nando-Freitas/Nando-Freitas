@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nando-Freitas">
+</br>
+<img align="right" src="https://www.codewars.com/users/NandoFreitas17/badges/micro">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4DB8F3&lines=Welcome+to+my+profile+👋!;I'm+Fernando+🧑‍💻!;Nice+to+meet+you+​🙃​!)](https://git.io/typing-svg)
-[![Typing SVG]](https://www.codewars.com/users/NandoFreitas17/badges/micro)
+
 ---
 <h2> Personal Info </h2>
 <p> 👨‍🏛 I'm graduated at <b>University of São Paulo</b>. </p>
@@ -11,8 +13,10 @@
 <p> 💼 Nowadays working as <b>software-developer</b>. </p>
 <p> 💬 If you have any questions, <b>just ask me</b>. </p>
 <p> This is my email: <b>nando.freitas01@gmai.com</b>. </p>
+
 <hr>
 <h2> 🛠️ Languages - Frameworks - Tools - Databases </h2>
+
 
 <span><img alt="JAVASRIPT" src="./icons/javascript-original.svg" width="40px" height="40px"/></span>
 <span><img alt="HTML5" src="./icons/html5-original.svg" width="40px" height="40px"/></span>
