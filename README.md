@@ -12,7 +12,7 @@
 <p> 🤔 My hobbies are <b>making puzzles, gym, drawing, swim and watch movies</b>. </p>
 <p> 💼 Nowadays working as <b>software-developer</b>. </p>
 <p> 💬 If you have any questions, <b>just ask me</b>. </p>
-<p> This is my email: <b>nando.freitas01@gmai.com</b>. </p>
+<p> This is my email: <b>nando.freitas01@gmail.com</b>. </p>
 
 <hr>
 <h2> 🛠️ Languages - Frameworks - Tools - Databases </h2>
@@ -43,8 +43,3 @@
 <div>
  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Nando-Freitas&theme=react&border=61dafb&hide_border=true" alt="Nando-Freitas" />
 </div>
-<hr>
-<h2> 📊 GitHub activities </h2>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nando-Freitas Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Nando-Freitas&bg_color=1F222E&color=F8D866&line=4DB8F3FF&point=FFFFFF&hide_border=true" /></a>
